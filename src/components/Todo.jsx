@@ -29,7 +29,7 @@ const handleSearchChange = (e) => {
 
 
   return (
-    <div className='max-w-4xl mx-auto sm:mt-8 p-2 bg-gray-100 rounded'>
+    <div className='max-w-4xl mx-auto sm:mt-8 p-2 bg-blue-50 rounded'>
       <h2 className='mt-3 mb-6 text-2xl font-bold text-center uppercase' >My To-do App</h2>
 
 <div className='flex items-center mb-4'>
