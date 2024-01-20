@@ -20,7 +20,7 @@ onChange={(e) => handleFilter(e.target.value)}
     <option value="INCOMPLETE">Incomplete</option>
 </select>
 
-<button className='"text-sm px-2 py-1 bg-purple-600 text-white rounded ml-2' 
+<button className='"text-sm px-2 py-1 bg-blue-600 text-white rounded ml-2' 
 onClick={() => dispatch(markAllCompleted())}>
     Mark all completed.</button>
     </div>
